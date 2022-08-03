@@ -1,0 +1,7 @@
+#app {
+  height: 100%;
+}
+
+.ant-drawer-body {
+  padding: 0 24px 24px 24px !important;
+}
